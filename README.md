@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data analytics**
 
-- 💬 Ask me about **WEB dev, Coding, Data analytics and visulaization**
+- 💬 Ask me about **WEB dev, Coding, Data analytics and visulaization.**
 
 - 📫 How to reach me **akshatmundra420@gmail.com**
 
