@@ -1,7 +1,7 @@
 ![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 <h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">Hello! I'm Akshat Mundra, a Final Year BCA student Medi-Caps University. My passion lies in coding and Web development.</h3>
+<h3 align="center">Hello! I'm Akshat Mundra, I've done my bachelors in Computer Science from Medi-Caps University. My passion lies in coding and Web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshhattt&label=Profile%20views&color=0e75b6&style=flat" alt="akshhattt" /> </p>
 
