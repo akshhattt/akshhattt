@@ -1,7 +1,7 @@
 ![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 <h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">Hello! I'm Akshat Mundra, I've done my bachelors in Computer Science from Medi-Caps University. My passion lies in Data Analytics and Web development.</h3>
+<h3 align="center">Hello! I'm Akshat Mundra, I've done my bachelors in Computer Science from Medi-Caps University. Helping folks and solvong problems through AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshhattt&label=Profile%20views&color=0e75b6&style=flat" alt="akshhattt" /> </p>
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **AI +**
 
-- 💬 Ask me about **Web dev, Coding, Data Analytics and Visualization.**
+- 💬 Ask me about **AI, Web dev, Coding, Data Analytics and Visualization.**
 
-- 📫 How to reach me **akshatmundra420@gmail.com**
+- 📫 How to reach me **akshatmundra40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
